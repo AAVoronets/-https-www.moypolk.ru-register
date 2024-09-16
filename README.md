@@ -1,2 +1,3 @@
-# -https-www.moypolk.ru-register
+# Исследовательское тестирование
+-https-www.moypolk.ru-register
 Описать проверку функционала регистрации в формате тест-кейсов
