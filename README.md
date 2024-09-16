@@ -1,3 +1,3 @@
-# Исследовательское тестирование
+# Research testing of the registration functionality
 -https-www.moypolk.ru-register
-Описать проверку функционала регистрации в формате тест-кейсов
+
